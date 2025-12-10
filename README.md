@@ -1,13 +1,13 @@
-🧠 NeuroAttention-EEG-Study: EEG-based Attention Mechanism Research in UI Interface Design
-📋 Project Overview
+#🧠 NeuroAttention-EEG-Study: EEG-based Attention Mechanism Research in UI Interface Design
+##📋 Project Overview
 This study combines neuroscience and user interface design to analyze the impact of different mobile interface designs on users' neural attention mechanisms using EEG signals. By analyzing EEG responses to dynamic icons at different positions, we aim to validate and deepen the neuroscientific foundation of UI design principles.
-🎯 Research Objectives
+##🎯 Research Objectives
 Validate the neural basis of UI design principles: Provide neuroscientific evidence for existing design principles
 Compare neural response differences: Analyze brain responses to dynamic icons at different interface positions
 Evaluate layout organization methods: Compare attention allocation patterns between vertical and horizontal layouts
 Investigate temporal dynamic characteristics: Analyze the time-varying features of neural perception
 Integrate multimodal data: Combine EEG and eye-tracking data for comprehensive analysis of attention mechanisms
-🔬 Research Background
+##🔬 Research Background
 Existing UI Design Principles
 Previous research has shown:
 Left-positioned icons​ attract more user attention compared to right-positioned icons
@@ -17,7 +17,7 @@ Number of participants: 9 healthy volunteers
 Data modalities: Synchronously recorded EEG + eye-tracking data
 Interface conditions: Mobile interfaces with/without dynamic icons
 Layout variations: Vertical and horizontal divisions of Areas of Interest (AOIs)
-📊 Experimental Conditions and Comparisons
+##📊 Experimental Conditions and Comparisons
 Five Comparative Analysis Modules:
 Dynamic Icons Presence Comparison
 Condition A: Interface containing dynamic icons
@@ -37,7 +37,7 @@ Purpose: Validate the neural basis of traditional design principles
 Multimodal Correlation Analysis
 EEG metrics vs. eye-tracking metrics
 Neural activation vs. visual fixation patterns
-🧬 EEG Analysis Pipeline
+##🧬 EEG Analysis Pipeline
 1. Data Acquisition and Preprocessing
 Equipment: 64-channel EEG system
 Sampling rate: 1000 Hz
