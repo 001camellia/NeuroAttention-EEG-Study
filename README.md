@@ -5,8 +5,8 @@ This study combines neuroscience and user interface design to analyze the impact
 ## 🎓 Research Team & Affiliation
 - **Research Team**: Neuro-Interface Interaction Group
 - **Institution**: Hangzhou Dianzi University
-- **Research Members**: Chen Xu, Li Yan, Feng Ying, Hu Binwei, Zhu Li
-
+- **Research Members**:  Xu Chen,  Yan Li,  Ying Feng,  Binwei Hu,  Li Zhu
+- **supervisor**: Prof. Zhu
 ## 🎯 Research Objectives
 - **Validate the neural basis of UI design principles**: Provide neuroscientific evidence for existing design principles
 - **Compare neural response differences**: Analyze brain responses to dynamic icons at different interface positions
