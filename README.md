@@ -2,6 +2,10 @@
 
 ## 📋 Project Overview
 This study combines neuroscience and user interface design to analyze the impact of different mobile interface designs on users' neural attention mechanisms using EEG signals. By analyzing EEG responses to dynamic icons at different positions, we aim to validate and deepen the neuroscientific foundation of UI design principles.
+## 🎓 Research Team & Affiliation
+- **Research Team**: Neuro-Interface Interaction Group
+- **Institution**: Hangzhou Dianzi University
+- **Research Members**: Chen Xu, Li Yan, Feng Ying, Hu Binwei, Zhu Li
 
 ## 🎯 Research Objectives
 - **Validate the neural basis of UI design principles**: Provide neuroscientific evidence for existing design principles
