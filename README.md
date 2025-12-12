@@ -1,7 +1,7 @@
 # 🧠 NeuroAttention-EEG-Study: EEG-based Attention Mechanism Research in UI Interface Design
 
 ## 📋 Project Overview
-This study combines neuroscience and user interface design to analyze the impact of different mobile interface designs on users' neural attention mechanisms using EEG signals. By analyzing EEG responses to dynamic icons at different positions, we aim to validate and deepen the neuroscientific foundation of UI design principles.
+This study combines neuroscience and user interface design to analyze the impact of different mobile interface designs on users' neural attention mechanisms using EEG signals. By analyzing EEG responses to dynamic icons at different positions, we aim to validate and deepen the neuroscientific foundation of UI design principles.Here, I am involved in data processing, analysis, and visualization.
 ## 🎓 Research Team & Affiliation
 - **Research Team**: Neuro-Interface Interaction Group
 - **Institution**: Hangzhou Dianzi University
